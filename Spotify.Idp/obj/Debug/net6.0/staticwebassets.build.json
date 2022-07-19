@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SJHXb0gUqeD9Lar4jBr+CqpKVENlzWIw+6jSX3O7TXg=",
+  "Source": "Spotify.Idp",
+  "BasePath": "_content/Spotify.Idp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
